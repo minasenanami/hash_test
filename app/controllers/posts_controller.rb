@@ -8,6 +8,9 @@ class PostsController < ApplicationController
 
   # GET /posts/1 or /posts/1.json
   def show
+
+    binding.pry
+
   end
 
   # GET /posts/new
